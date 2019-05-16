@@ -34,18 +34,17 @@ python device.py --argument
 
 ## Files:
 
-**Compiler**: ***to be added
-**Data_abstractor**: 
--- Obj_Detector
--- Event_generator
-**CEP_engine**:
--- sth
-server.py
-device.py
-
-**Images**
-requirements.txt
-License
+- **Compiler**: ***to be added
+- **Data_abstractor**: 
+  - Obj_Detector
+  - Event_generator
+- **CEP_engine**:
+  - sth
+- **Images**
+- server.py
+- device.py
+- requirements.txt
+- License
 
 
 ## Maintainer
