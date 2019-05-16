@@ -5,7 +5,7 @@ This repo has an implemntation of our paper [DeepCEP: Deep Complex Event Process
 ## Framework Overview
 DeepCEP is a framework for processing complex events with intergrated deep learning networks.
 ![DeepCEP](https://github.com/nesl/DeepCEP_DAIS/blob/master/Images/DeepCEP.png)
-<img src="https://github.com/nesl/DeepCEP_DAIS/blob/master/Images/DeepCEP.png" width="48">
+<img src="https://github.com/nesl/DeepCEP_DAIS/blob/master/Images/DeepCEP.png" width="700">
 - DeepCEP consists of 2 parts: _Deep data abstractor_ and _Uncertainty Robust CEP engine_.
 - _Deep data abstractor_ structure and abstract raw data into primitive events with semantic meanings.
   - _Deep data abstractor_ use YOLOv3 objection detection model: Model from [here](https://github.com/TianweiXing/YOLOv3 "YoloV3"), trained in Keras.
