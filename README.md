@@ -30,12 +30,8 @@ python server.py --argument
 ```bash
 python device.py --argument
 ```
----
-## Maintainer
-* This project is maintained by: Tianwei Xing (malzantot)
 
 
----
 ## Files:
 
 **Compiler**: ***to be added
@@ -43,11 +39,15 @@ python device.py --argument
 -- Obj_Detector
 -- Event_generator
 **CEP_engine**:
---
+-- sth
 server.py
 device.py
 
 **Images**
 requirements.txt
 License
+
+
+## Maintainer
+* This project is maintained by: Tianwei Xing (malzantot)
 
