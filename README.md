@@ -5,7 +5,7 @@ This repo has an implemntation of our paper [DeepCEP: Deep Complex Event Process
 ## Framework Overview
 DeepCEP is a framework for processing complex events with intergrated deep learning networks.
 
-<img src="https://github.com/nesl/DeepCEP_DAIS/blob/master/Images/DeepCEP.png" width="700">
+<img src="https://github.com/nesl/DeepCEP_DAIS/blob/master/Images/DeepCEP.png" width="600">
 
 - DeepCEP consists of 2 parts: _Deep data abstractor_ and _Uncertainty Robust CEP engine_.
 - _Deep data abstractor_ structure and abstract raw data into primitive events with semantic meanings.
@@ -50,5 +50,5 @@ python device.py --argument
 
 
 ## Maintainer
-* This project is maintained by: Tianwei Xing (malzantot)
+* This project is maintained by: [Tianwei Xing (TianweiXing)](https://github.com/TianweiXing)
 
